@@ -1,0 +1,16 @@
+.git
+**/.git
+**/.vs
+**/bin
+**/obj
+**/__pycache__
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/*.log
+*.user
+*.suo
+*.swp
+.env
+.env.*
+!.env.example
